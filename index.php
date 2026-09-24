@@ -1,6 +1,7 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
 header('Cache-Control: no-store');
+header('X-Robots-Tag: noindex, nofollow, noarchive, nosnippet');
 ?>
 <!doctype html>
 <html lang="tr">
